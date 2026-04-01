@@ -44,7 +44,6 @@ temp-*
 *.temp
 .DS_Store
 # env files
-.env
 
 .npm/
 .config/
